@@ -79,6 +79,7 @@ body {
   border-radius: 50%;
   border: 1px solid rgb(214, 214, 214);
   margin-right: 8px;
+  dis
 }
 
 .content-wrapper {
@@ -142,6 +143,8 @@ button {
   color: #d14949;
   text-align: center;
 }
+
+
 
 @media (max-width: 480px) {
   .phone {
