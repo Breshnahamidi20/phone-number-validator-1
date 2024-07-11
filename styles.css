@@ -32,7 +32,7 @@ body {
   align-items: center;
   width: 240px;  /* reduced width */
   height: 500px;  /* reduced height */
-  background:linear-gradient(rgb(12, 0, 0), rgb(214, 199, 210), rgb(0, 0, 0));
+  background: linear-gradient(rgb(12, 0, 0), rgb(214, 199, 210), rgb(0, 0, 0));
   border-radius: 20px;  /* adjusted border radius */
   padding: 10px;
   position: relative;
@@ -40,15 +40,14 @@ body {
 
 .phone-mirror {
   position: relative;
-  width: 238px;  
+  width: 238px;
   height: 490px;  
- background-image: url(4.jpg);
+  background-image: url(4.jpg);
   border-radius: 20px;  
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  
 }
 
 .topWrapper {
@@ -144,21 +143,24 @@ button {
   text-align: center;
 }
 
-
-
-@media (max-width: 480px) {
+@media (max-width: 280px) {
   .phone {
-    width: 180px;
-    height: 400px;
+    width: 230px;
+    height: 500px;
   }
 
   .phone-mirror {
-    width: 190px;
-    height: 380px;
+    width: 225px;
+    height: 49px;
   }
 
   h1 {
     font-size: 14px;
+  }
+  .topWrapper {
+    width: 90px;
+    height: 15px;
+    top: -220px;
   }
 
   button {
