@@ -41,9 +41,9 @@ body {
 .phone-mirror {
   position: relative;
   width: 238px;
-  height: 490px;  
+  height: 490px;
   background-image: url(4.jpg);
-  border-radius: 20px;  
+  border-radius: 20px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -95,7 +95,7 @@ h1 {
   font-size: 20px;
   margin-bottom: 10px;
   color: white;
-  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif:
 }
 
 #user-input {
@@ -133,9 +133,9 @@ button {
   background-color: #fff;
   color: #000;
   border-radius: 20%;
-  font-family:'Times New Roman', Times, serif;
+  font-family: 'Times New Roman', Times, serif;
   font-size: large;
-}  
+}
 
 #results-div {
   margin-top: 10px;
@@ -157,6 +157,7 @@ button {
   h1 {
     font-size: 14px;
   }
+  
   .topWrapper {
     width: 90px;
     height: 15px;

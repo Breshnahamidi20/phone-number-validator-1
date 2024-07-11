@@ -1,8 +1,8 @@
 #  phone-number-validator-1🚀
 
-## Add functionality to check if an input is a palindrome, with input validation and dynamic result display.📝
+## Add functionality to check if an input is a simalr to US number validtion, with input validation and dynamic result display.📝
 
-> This project is a web application built with HTML, CSS, and JavaScript that change the number you enter to from Arabic Numerals to RomanNumeral.
+> This project is a web application built with HTML, CSS, and JavaScript that check the number you enter if it samilr to  the format of US number validation .
 
 
 
@@ -23,7 +23,7 @@
 git clone https://github.com/Breshnahamidi20/phone-number-validator-1.git
 ```bash
 2: Navigate to the Project Directory:
-cd roman-numeral
+cd phone-number-validator-1
 ```
 
 ```bash
@@ -33,13 +33,13 @@ cd roman-numeral
 ## Usage 🎯
 
 ```bash
-To use the project, open index.html in your browser, ensure style.css and script.js are in the same directory, enter text in the input field, click "Check", and view the  Roman Numeral.
+To use the project, open index.html in your browser, ensure style.css and script.js are in the same directory, enter text in the input field, click "Check", and it check if it is US number validation.
 ```
 
 ## Features ⭐
 
 - Real-time Input Validation: Alerts users if no input is provided.
-- Dynamic Result Display: Instantly change  Arabic Numerals to Eoman Numerals, providing immediate feedback.
+- Dynamic Result Display: Instantly check  is form US number validation or not, providing immediate feedback.
 - User-Friendly Interface: Clean and simple design for easy interaction.
 
 ## Author 👩‍💻
